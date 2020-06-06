@@ -1,0 +1,22 @@
+.navbar{
+    background-color: rgba(58, 39, 39, 0.233) !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: 500 !important;
+}
+.navbar a:hover{
+    background-color: burlywood;
+}
+.navbar-brand img{
+    width: 50px;
+}
+body{
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/06/cd/3d/f2/ludwig-das-burger-restaurant.jpg');
+   height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.blue{
+    color: purple;
+}
